@@ -1,4 +1,4 @@
-# temperatura-con-raspberry
+# temperatura-con-raspberry para python
 temperatura con raspberry y termistor
 En este capítulo, aprenderemos otro nuevo tipo de resistencia, el termistor.
 La resistencia del termistor cambiará con el cambio de temperatura. Así que podemos hacer un termómetro
